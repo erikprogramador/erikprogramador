@@ -13,22 +13,23 @@ Today I am a partner at Adalov, a company where our goal is to “Solve the cust
 📫 How to reach me: [On linkedin](https://www.linkedin.com/in/erik-vanderlei-fernandes-a88790b3/)
 ⚡ Fun fact: **I'm never stop learning**
 
-## My Projects
+## 🏢 My Projects
 
 My current main project is [Adalov](https://adalov.com) my marketing consulting company.
 
-## On Community
+## 💂 On Community
 
 I'm helped out the [PHPSP](https://phpsp.org.br/) community organizing on the PHPSP + Talks events. I stopped until the events can be presented again.
 
-## My Talks
+## 📺 My Talks
 
 Both of my talks are in PT-BR.
 
 [Laravel e seu ecossistema V1.0](https://www.youtube.com/watch?v=5bvwsA1lVmo) Laraconf Brasil 2017
+
 [Laravel e seu ecossistema V2.0](https://www.youtube.com/watch?v=ZV5IcfT15GI) PHP Community Summit 2019
 
-## Github Stats
+## 💻 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikprogramador)](https://github.com/erikprogramador/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikprogramador)](https://github.com/erikprogramador/github-readme-stats)
