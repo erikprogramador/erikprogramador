@@ -21,13 +21,15 @@ My current main project is [Adalov](https://adalov.com) my marketing consulting 
 
 I'm helped out the [PHPSP](https://phpsp.org.br/) community organizing on the PHPSP + Talks events. I stopped until the events can be presented again.
 
-## 📺 My Talks
+## 📺 On the web
 
 Both of my talks are in PT-BR.
 
 [Laravel e seu ecossistema V1.0](https://www.youtube.com/watch?v=5bvwsA1lVmo) Laraconf Brasil 2017
 
 [Laravel e seu ecossistema V2.0](https://www.youtube.com/watch?v=ZV5IcfT15GI) PHP Community Summit 2019
+
+[Quer se tornar um desenvolvedor front-end? Confira essas dicas](https://canaltech.com.br/mercado/quer-se-tornar-um-desenvolvedor-front-end-confira-essas-dicas-208986/) Canaltech 2022
 
 ## 💻 Github Stats
 
